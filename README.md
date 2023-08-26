@@ -1,1 +1,1 @@
-My first readme
+SE is cool
