@@ -1,1 +1,1 @@
-SE is cool
+coding is fun
